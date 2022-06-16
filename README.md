@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jakobb01
 - 👀 I’m interested in everything tech related.
-- 🌱 I’m currently learning Python/C/JS
-- I’m a studying computer science in University
+- 🌱 I’m learning some programing languages, like: Python/C/JavaScript
+- I’m studying computer science in University
+- I'm currently fascinated about algorithms & DS and ML
 
 
 <!---
