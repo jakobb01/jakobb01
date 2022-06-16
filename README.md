@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything tech related.
 - 🌱 I’m learning some programing languages, like: Python/C/JavaScript
 - I’m studying computer science in University
-- I'm currently fascinated about algorithms & DS and ML
+- I'm currently fascinated about algorithms & DataStructures and/or ML
 
 
 <!---
